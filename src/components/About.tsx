@@ -1,8 +1,7 @@
 import Image from "next/image";
 
 /** PLACEHOLDER about image — replace with authentic salon photography. */
-const ABOUT_IMAGE =
-  "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=1200&q=80";
+const ABOUT_IMAGE = "/images/about-braids.jpg";
 
 export function About() {
   return (

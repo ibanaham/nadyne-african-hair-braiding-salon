@@ -4,8 +4,7 @@ import { business } from "@/data/business";
 import { trustItems } from "@/data/whyChoose";
 
 /** PLACEHOLDER hero image — replace with authentic salon photography. */
-const HERO_IMAGE =
-  "https://images.unsplash.com/photo-1605497788044-5a32c7078486?auto=format&fit=crop&w=1400&q=80";
+const HERO_IMAGE = "/images/hero-braids.jpg";
 
 export function Hero() {
   return (
